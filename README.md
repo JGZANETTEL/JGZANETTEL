@@ -1,16 +1,18 @@
-## Hi there 👋
+<h2>Olá, eu sou o João Gabriel Zanette Lara</h2>
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" heigth="60" width="60">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"heigth="60" width="60">⠀
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"heigth="60" width="60">⠀
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"heigth="60" width="60">⠀
+<img src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png" heigth="85" width="85"/>
+</p>
+<hr>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-<!--
-**JGZANETTEL/JGZANETTEL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+<h2>Meus contatos</h2>
+<div>
+  <a href="#" target="_blank"></a>
+  <a href = "mailto:joaoabrielzanettel@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+</a>

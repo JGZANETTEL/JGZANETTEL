@@ -10,7 +10,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"heigth="60" width="60">⠀
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"heigth="60" width="60">⠀
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"heigth="60" width="60">⠀
-<img src="[https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png](https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/java/java-original-wordmark.svg)" heigth="85" width="85"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/java/java-original-wordmark.svg" heigth="85" width="85"/>
 </p>
 <hr>
 

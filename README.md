@@ -1,27 +1,25 @@
-<div align="center">
+<h1>👋 &nbsp;Hey, I'm João Gabriel, a Data Analyst & Aspiring Full Stack Engineer!</h1>
 
- <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1c107d2f-f955-413e-972e-a71a5cdbb666/dcr53nu-6bb4f000-458e-48a6-bba0-ef84d9b0b804.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8xYzEwN2QyZi1mOTU1LTQxM2UtOTcyZS1hNzFhNWNkYmI2NjYvZGNyNTNudS02YmI0ZjAwMC00NThlLTQ4YTYtYmJhMC1lZjg0ZDliMGI4MDQuZ2lmIn1dXX0.D8plL9z2p1LgvCdB8_R5hn9pJqRK30kpQk8yCnYi3H0" height="60" width="60" /> <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1c107d2f-f955-413e-972e-a71a5cdbb666/dcr53nu-6bb4f000-458e-48a6-bba0-ef84d9b0b804.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8xYzEwN2QyZi1mOTU1LTQxM2UtOTcyZS1hNzFhNWNkYmI2NjYvZGNyNTNudS02YmI0ZjAwMC00NThlLTQ4YTYtYmJhMC1lZjg0ZDliMGI4MDQuZ2lmIn1dXX0.D8plL9z2p1LgvCdB8_R5hn9pJqRK30kpQk8yCnYi3H0" height="60" width="60" /> <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1c107d2f-f955-413e-972e-a71a5cdbb666/dcr53nu-6bb4f000-458e-48a6-bba0-ef84d9b0b804.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8xYzEwN2QyZi1mOTU1LTQxM2UtOTcyZS1hNzFhNWNkYmI2NjYvZGNyNTNudS02YmI0ZjAwMC00NThlLTQ4YTYtYmJhMC1lZjg0ZDliMGI4MDQuZ2lmIn1dXX0.D8plL9z2p1LgvCdB8_R5hn9pJqRK30kpQk8yCnYi3H0" height="60" width="60" /> <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1c107d2f-f955-413e-972e-a71a5cdbb666/dcr53nu-6bb4f000-458e-48a6-bba0-ef84d9b0b804.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8xYzEwN2QyZi1mOTU1LTQxM2UtOTcyZS1hNzFhNWNkYmI2NjYvZGNyNTNudS02YmI0ZjAwMC00NThlLTQ4YTYtYmJhMC1lZjg0ZDliMGI4MDQuZ2lmIn1dXX0.D8plL9z2p1LgvCdB8_R5hn9pJqRK30kpQk8yCnYi3H0" height="60" width="60" /> <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1c107d2f-f955-413e-972e-a71a5cdbb666/dcr53nu-6bb4f000-458e-48a6-bba0-ef84d9b0b804.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8xYzEwN2QyZi1mOTU1LTQxM2UtOTcyZS1hNzFhNWNkYmI2NjYvZGNyNTNudS02YmI0ZjAwMC00NThlLTQ4YTYtYmJhMC1lZjg0ZDliMGI4MDQuZ2lmIn1dXX0.D8plL9z2p1LgvCdB8_R5hn9pJqRK30kpQk8yCnYi3H0" height="60" width="60" /> <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1c107d2f-f955-413e-972e-a71a5cdbb666/dcr53nu-6bb4f000-458e-48a6-bba0-ef84d9b0b804.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8xYzEwN2QyZi1mOTU1LTQxM2UtOTcyZS1hNzFhNWNkYmI2NjYvZGNyNTNudS02YmI0ZjAwMC00NThlLTQ4YTYtYmJhMC1lZjg0ZDliMGI4MDQuZ2lmIn1dXX0.D8plL9z2p1LgvCdB8_R5hn9pJqRK30kpQk8yCnYi3H0" height="60" width="60" /> <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1c107d2f-f955-413e-972e-a71a5cdbb666/dcr53nu-6bb4f000-458e-48a6-bba0-ef84d9b0b804.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8xYzEwN2QyZi1mOTU1LTQxM2UtOTcyZS1hNzFhNWNkYmI2NjYvZGNyNTNudS02YmI0ZjAwMC00NThlLTQ4YTYtYmJhMC1lZjg0ZDliMGI4MDQuZ2lmIn1dXX0.D8plL9z2p1LgvCdB8_R5hn9pJqRK30kpQk8yCnYi3H0" height="60" width="60" /> <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1c107d2f-f955-413e-972e-a71a5cdbb666/dcr53nu-6bb4f000-458e-48a6-bba0-ef84d9b0b804.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8xYzEwN2QyZi1mOTU1LTQxM2UtOTcyZS1hNzFhNWNkYmI2NjYvZGNyNTNudS02YmI0ZjAwMC00NThlLTQ4YTYtYmJhMC1lZjg0ZDliMGI4MDQuZ2lmIn1dXX0.D8plL9z2p1LgvCdB8_R5hn9pJqRK30kpQk8yCnYi3H0" height="60" width="60" /> <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1c107d2f-f955-413e-972e-a71a5cdbb666/dcr53nu-6bb4f000-458e-48a6-bba0-ef84d9b0b804.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8xYzEwN2QyZi1mOTU1LTQxM2UtOTcyZS1hNzFhNWNkYmI2NjYvZGNyNTNudS02YmI0ZjAwMC00NThlLTQ4YTYtYmJhMC1lZjg0ZDliMGI4MDQuZ2lmIn1dXX0.D8plL9z2p1LgvCdB8_R5hn9pJqRK30kpQk8yCnYi3H0" height="60" width="60" /> <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1c107d2f-f955-413e-972e-a71a5cdbb666/dcr53nu-6bb4f000-458e-48a6-bba0-ef84d9b0b804.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8xYzEwN2QyZi1mOTU1LTQxM2UtOTcyZS1hNzFhNWNkYmI2NjYvZGNyNTNudS02YmI0ZjAwMC00NThlLTQ4YTYtYmJhMC1lZjg0ZDliMGI4MDQuZ2lmIn1dXX0.D8plL9z2p1LgvCdB8_R5hn9pJqRK30kpQk8yCnYi3H0" height="60" width="60" /> 
-
-
-
-<h2>Hello World, eu sou o João Gabriel Zanette Lara</h2> 
-
-<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" heigth="60" width="60">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"heigth="60" width="60">⠀
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"heigth="60" width="60">⠀
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"heigth="60" width="60">⠀
-<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/java/java-original-wordmark.svg" heigth="85" width="85"/>
+<p align="center">
+<a href="https://www.linkedin.com/in/joao-gabriel-zanette-lara-1a5227372/"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:joaogabrielzanettel@outlook.com"><img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
-<hr>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-<hr>
-<h2>Meus contatos</h2>
-<div>
-  <a href="#" target="_blank"></a>
-  <a href = "mailto:joaoabrielzanettel@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-</a>
-</div>
+Atualmente trabalho como **Analista de Dados**, o que me deu uma base sólida em estruturação de informações e bancos de dados complexos. Estou em transição/evolução para a engenharia de software, focando em criar interfaces modernas com **React** no Front-End, enquanto utilizo meu conhecimento em **Python** e **Java** para o desenvolvimento lógico e backend.
+
+Meu objetivo é unir o poder da análise de dados com a interatividade do desenvolvimento web para construir soluções completas e inteligentes.
+
+<h2> 🚀 &nbsp;Tech Stack </h2>
+
+* **Data & Backend:** PostgreSQL, Oracle SQL, MySQL, Python (Intermediário), Java (Iniciante - em aprendizado constante).
+* **Frontend:** React.js, JavaScript (ES6+), Vite, Tailwind CSS.
+* **Environment:** Linux (Pop!_OS), Git, Docker.
+
+<h2> 🎓 &nbsp;Lifelong Learner </h2>
+
+Acredito no aprendizado contínuo. Mesmo já dominando tecnologias de dados, dedico meu tempo livre para cursar Java e aprimorar minhas habilidades em frameworks modernos de JavaScript. No meu GitHub, você encontrará projetos que tentam integrar essas duas frentes: a robustez dos dados com a fluidez do React.
+
+---
+"Dados informam, mas o código constrói." 🚀

@@ -3,17 +3,17 @@
 *Desenvolvedor Full Stack | Analista de Dados | Founder da Looksouth67*
 
 ## 👨🏻‍💻 Sobre Mim
-Atualmente atuo como **Analista de Sistemas e Chefe de Implantação no Hospital São Donato**, o que me deu uma base sólida em estruturação de informações e bancos de dados complexos (Oracle/PL-SQL). Estou em constante evolução na engenharia de software, focando em criar interfaces modernas com **React** no Front-End, enquanto utilizo meu conhecimento em **Node.js, Python e Java** para o desenvolvimento lógico e backend.
+Atualmente atuo como **Desenvolvedor na Domina Concursos**, onde aplico minha base sólida em estruturação de informações e bancos de dados complexos (Oracle/PL-SQL) para criar sistemas escaláveis. Estou em constante evolução na engenharia de software, focando em criar interfaces modernas com **React** no Front-End, enquanto utilizo meu conhecimento em **Node.js, Python e Java** para o desenvolvimento lógico e backend.
 
 Meu objetivo é unir o poder da análise de dados com a interatividade do desenvolvimento web para construir soluções completas e inteligentes. Conciliando minha graduação em **Sistemas de Informação (ESUCRI)** com o mercado, busco aplicar a teoria acadêmica diretamente na resolução de problemas reais.
 
 ## ⚔️ Minhas Missões Atuais
-- 🏥 **Hospital São Donato:** Liderando a implantação do ERP Tasy e desenvolvendo consultas de dados (BI) para suporte à gestão e indicadores de performance.
+- 📚 **Domina Concursos:** Desenvolvendo soluções de software e aprimorando a plataforma para otimizar a experiência e os estudos de milhares de concurseiros.
 - 🚀 **Looksouth67:** Empreendendo com minha própria empresa de tecnologia, focado na criação de landing pages, automação e soluções web.
 - 🍔 **Projetos Pessoais:** Construindo uma Aplicação Web Full Stack para gestão de restaurantes, integrando a robustez dos dados com a fluidez do React.
 
 ## 🛠️ Tech Stack (Meu Arsenal)
-- **Data & Backend:** PostgreSQL, Oracle SQL, MongoDB, Node.js, Python (Intermediário), Java (In aprendizado constante).
+- **Data & Backend:** PostgreSQL, Oracle SQL, MongoDB, Node.js, Python (Intermediário), Java (Em aprendizado constante).
 - **Frontend:** React.js, TypeScript, JavaScript (ES6+), Vite, Tailwind CSS.
 - **Environment & DevOps:** Linux (Pop!_OS), Git, Docker.
 

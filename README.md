@@ -1,4 +1,4 @@
-# 👋 Hey, I'm João Gabriel (Gema)
+# 👋 Hey, I'm João Gabriel (Pinha)
 
 *Desenvolvedor Full Stack | Analista de Dados | Founder da Looksouth67*
 
